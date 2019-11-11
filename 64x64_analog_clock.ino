@@ -4,9 +4,9 @@
 #include <ESP8266WiFi.h>
 #include <Ticker.h>
 
-// PxMatrix - Library by 2dom
+// PxMatrix - Library by 2dom - https://github.com/2dom/PxMatrix
 #include <PxMatrix.h>
-// NTPtimeESP - Library by Andreas Spiess
+// NTPtimeESP - Library by Andreas Spiess - https://github.com/SensorsIot/NTPtimeESP
 #include <NTPtimeESP.h>
 
 Ticker display_ticker;
