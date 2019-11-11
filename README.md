@@ -6,3 +6,4 @@ based on work from:
   2dom (PxMatrix)
   Brian Lough (D1 mini matrix breakout board)
   
+<img src="analog_clock.gif">
